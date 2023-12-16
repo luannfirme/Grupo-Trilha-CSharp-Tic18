@@ -8,18 +8,18 @@ public class LuannFirme
     public static List<(string, int)> Skills => new List<(string, int)>{
             ("Fundamentos de C#", 5),
             ("Habilidades Gerais de Desenvolvimento",4),
-            ("Fundamentos de Banco de Dados",3),
+            ("Fundamentos de Banco de Dados",4),
             ("Fundamentos de APS.NET Core",4),
             ("ORM",3),
             ("Injeção de Dependências",3),
             ("Bancos de Dados", 4),
             ("Fundamentos de Comunicação com API Clients", 3),
             ("Fundamentos de Comunicação em tempo real", 3),
-            ("Fundamentos de Mapeamento de Objetos", 2),
+            ("Fundamentos de Mapeamento de Objetos", 3),
             ("Fundamentos de Micro-Serviços", 1),
-            ("Conhecimento de Bibliotecas do lado do Cliente", 2),
-            ("Habilidades em Modelos de interfaces ", 2),
-            ("Bibliotecas boas de conhecer", 1),
+            ("Conhecimento de Bibliotecas do lado do Cliente", 3),
+            ("Habilidades em Modelos de interfaces ", 3),
+            ("Bibliotecas boas de conhecer", 2),
          };
     public static string View()
     {
