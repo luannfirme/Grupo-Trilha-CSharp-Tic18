@@ -41,8 +41,8 @@ Dica: Conecte sua conta GitHub ao site Roadmap.sh e vá marcando o seu status em
 
 ## Autores:
 
-| [<img src="https://avatars.githubusercontent.com/u/85597024?v=4" alt="Ana Caroline" width="100"/>](https://github.com/CarolineNeris) | [<img src="https://avatars.githubusercontent.com/u/83993439?v=4" alt="Paulo Ricardo" width="100"/>](https://github.com/Ricardo-1991) | [<img src="BOTE AQUI A URL DA FOTO AUTOR 3 " alt=" NOME Autor 3" width="100"/>](LINK DO PERFIL GITHUB) | [<img src="BOTE AQUI A URL DA FOTO AUTOR 4" alt="nome Autor 4" width="100"/>](link DO GIT HUB) | [<img src="LINK DA FOT 5" alt=" NOME Autor 5" width="100"/>]( LINK DO PERFIL 5) |
+| [<img src="https://avatars.githubusercontent.com/u/85597024?v=4" alt="Ana Caroline" width="100"/>](https://github.com/CarolineNeris) | [<img src="https://avatars.githubusercontent.com/u/83993439?v=4" alt="Paulo Ricardo" width="100"/>](https://github.com/Ricardo-1991) | [<img src="https://avatars.githubusercontent.com/u/88903057?v=4" alt="Luann Firme" width="100"/>](https://github.com/luannfirme) | [<img src="BOTE AQUI A URL DA FOTO AUTOR 4" alt="nome Autor 4" width="100"/>](link DO GIT HUB) | [<img src="LINK DA FOT 5" alt=" NOME Autor 5" width="100"/>]( LINK DO PERFIL 5) |
 | --- | --- | --- | --- | --- |
-| **[Ana Caroline Neris ](https://github.com/CarolineNeris)** | **[Autor 2](https://github.com/CarolineNeris)** | **[Autor 3](https://github.com/CarolineNeris)** | **[Autor 4](https://github.com/CarolineNeris)** | **[Autor 5](https://github.com/CarolineNeris)** |
+| **[Ana Caroline Neris ](https://github.com/CarolineNeris)** | **[Paulo Ricardo](https://github.com/Ricardo-1991)** | **[Luann Firme](https://github.com/luannfirme)** | **[Autor 4](https://github.com/CarolineNeris)** | **[Autor 5](https://github.com/CarolineNeris)** |
 
 
