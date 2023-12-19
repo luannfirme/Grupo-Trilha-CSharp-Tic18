@@ -16,6 +16,7 @@ public class LuannFirme
             ("Fundamentos de Comunicação com API Clients", 3),
             ("Fundamentos de Comunicação em tempo real", 3),
             ("Fundamentos de Mapeamento de Objetos", 3),
+            ("Testes", 2),
             ("Fundamentos de Micro-Serviços", 1),
             ("Conhecimento de Bibliotecas do lado do Cliente", 3),
             ("Habilidades em Modelos de interfaces ", 3),
@@ -36,11 +37,4 @@ public class LuannFirme
         sb.AppendLine($"Total de estrelas: {sum}");
         return sb.ToString();
     }
-
-    public static int allStars()
-    {
-        var sum = Skills.Sum(x => x.Item2);
-        return sum;
-    }
-
 }
