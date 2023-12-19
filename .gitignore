@@ -1,8 +1,3 @@
-# Projeto-.NET
-Repositório criado desenvolver projeto relacionado ao módulo .Net da Residência TIC18 CEPEDI
-
-
-para usar no gitinore
 # Created by https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,csharp,dotnetcore
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,visualstudiocode,csharp,dotnetcore
 
@@ -441,4 +436,3 @@ obj/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,csharp,dotnetcore
-
