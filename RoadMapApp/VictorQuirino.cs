@@ -11,8 +11,8 @@ public static class VictorQuirino
         ("ORM", 2),
         ("Injeção de Dependência", 2),
         ("Bancos de Dados", 3),
-        ("Micro-Serviços", 1),
-        ("Testes", 2)
+        ("Testes", 2),
+        ("Fundamentos de Micro-Serviços", 1)
     };
 
     public static string View(){
