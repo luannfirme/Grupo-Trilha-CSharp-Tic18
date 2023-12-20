@@ -1,6 +1,8 @@
-﻿namespace CleanArchitecture.Domain;
+﻿using CleanArchitecture.Domain.Entities;
 
-public interface IUserRepository
+namespace CleanArchitecture.Domain.Interfaces;
+
+public interface IUserRepository : IBaseRepository<User>
 {
-
+    Task<User> GetByEmail(string email, CancellationToken cancellationToken);
 }
