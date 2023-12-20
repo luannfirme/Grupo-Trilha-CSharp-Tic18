@@ -1,4 +1,5 @@
-﻿namespace CleanArchitecture.Domain.Common;
+﻿namespace CleanArchitecture.Domain.Common
+{
 
 public abstract class BaseEntity
 {
@@ -6,4 +7,5 @@ public abstract class BaseEntity
     public DateTimeOffset DateCreated { get; set; }
     public DateTimeOffset? DateUpdated { get; set; }
     public DateTimeOffset? DateDeleted { get; set; }
+}
 }
